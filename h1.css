@@ -1,0 +1,226 @@
+h1{
+    padding-left: 30px;
+
+  }
+#main{
+display:flex;
+background-color: rgb(243, 237, 233);
+}
+#menu{
+display: flex; 
+padding-left: 50px;
+padding-top: 10px;
+}
+div a{
+width: 100px;
+}
+a{
+font-family: 'Bebas Neue', cursive;
+text-decoration: none;
+font-size: 23px;
+color: black;
+font-weight: 500;
+}
+#brand{
+    font-family: 'Allura', cursive;
+    font-weight:600;
+    padding-left: 850px;
+}
+
+/* division */
+#ak{
+    height: 679px; 
+}
+#div1{
+   background-color:  rgb(191, 164, 141);
+    margin-left: 50%;
+    margin-top: 0px;
+    height: 679px;
+}
+#a1{
+    position: absolute;
+    left: 110px; 
+ }
+ #div11{
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 20%;   
+    padding-top: 20%;
+    
+ }
+ h7{
+    
+    font-size: 50px;
+ }
+ h3{
+    font-weight:600;
+    font-size: 60px;
+ }
+ h2{
+    font-size: 50px;
+ }
+ p{
+    font-size: 15px;
+ }
+ #abs{
+    position: absolute;
+    left: 923px;
+    top: 440px;
+}
+#abs1{
+    position: absolute;
+    left: 923px;
+    top: 460px;
+}
+
+/* about */
+
+#sk{
+    background-color: rgb(133, 133, 133);
+    margin-top: 10%;
+    margin-left:5%;
+    width:90%;
+    height: 679px;
+}
+#sk1{
+    position: absolute;
+    background-color: rgb(243, 237, 233);
+    left: 150px;
+    top: 1000px;
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-bottom: 50px;
+    width:600px;
+}
+#sk2{
+    position: absolute;
+    left: 800px;
+    top: 950px;
+}
+
+h10{
+    font-size: 50px;
+
+}
+
+/* services */
+#bk{
+    
+        background-color: rgb(243, 237, 233);
+        margin-top: 10%;
+        width:100%;
+        height: 679px;
+    
+}
+
+h11
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    padding-left: 43%;
+}
+h5{
+    padding-left: 17%;
+    font-size: 40px;
+    padding-top: 10%;
+}
+#nma
+{
+display: flex;    
+justify-content: space-between;
+padding-left: 100px;
+padding-top: 70px;
+padding-right: 100px;
+}
+.card
+{
+    border-radius: 30px;
+    border-style: none;
+    font-family: 'Bebas Neue', cursive;
+}
+h13{
+    padding-left: 17%;
+    font-size: 40px;
+    /* padding-top: 10%; */
+}
+h14
+{
+    padding-left: 17%;
+    font-size: 40px;
+    padding-top: 0%;
+}
+
+/* contact */
+
+#ls
+{   font-family: 'Bebas Neue', cursive;
+    background-color:  rgb(191, 164, 141);
+    margin-left: 2%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    height: 500px;
+    width: 45%;
+}
+
+#cc{
+    padding-top: 20%;
+    padding-left: 30%;
+}
+h15{
+    font-size: 50px;
+    
+}
+h16{
+   
+    font-size: 20px;
+    padding-top: 60%;
+    padding-left: 27%;
+}
+#cc2{
+    padding-left: 22%;
+}
+h17{
+    padding-left: 38%;
+}
+h18{
+    padding-left: 32%;
+}
+#cc5
+{
+    padding-left: 40%;
+}
+
+#pp
+{
+    font-family: 'Bebas Neue', cursive;
+    position: absolute;
+    left: 62%;
+    top: 2550px;
+}
+h21{
+    font-size: 50px;
+}
+#pq
+{
+    font-family: 'Bebas Neue', cursive;
+    position: absolute;
+    left: 55%;
+    top: 2650px;
+    width: 30%;
+}
+#exampleFormControlInput1
+{
+    background-color: rgb(243, 237, 233);
+}
+#exampleFormControlTextarea1
+{
+    background-color: rgb(243, 237, 233);
+}
+#xyz{
+    background-color: rgb(133, 133, 133);
+    border-radius: 10px;
+    width: 70px;
+    border-style: none;
+    color: aliceblue;
+}
